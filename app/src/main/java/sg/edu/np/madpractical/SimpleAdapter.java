@@ -15,6 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 import java.util.Random;
 
+
 public class SimpleAdapter extends RecyclerView.Adapter<SimpleViewHolder> {
     ArrayList<User> data;
     Context context;

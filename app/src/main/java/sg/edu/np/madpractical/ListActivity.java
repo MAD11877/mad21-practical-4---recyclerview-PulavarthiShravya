@@ -18,6 +18,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.jar.Attributes;
 
+
 public class ListActivity extends AppCompatActivity {
     private final static String TAG = "ListActivity";
     ArrayList<User> myList = new ArrayList<>(); //making a list, defining that the list is a string

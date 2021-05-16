@@ -6,6 +6,7 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
+
 public class SimpleViewHolder extends RecyclerView.ViewHolder {
     TextView txt;
     TextView txt1;
